@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @silviashi453
+- 👋 Hi, I’m Mega Silvia
 - 👀 I’m interested in Backend Engineering
 - 🌱 I’m currently learning Java and Spring Boot
 
