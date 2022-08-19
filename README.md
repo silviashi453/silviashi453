@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @silviashi453
 - 👀 I’m interested in Backend Engineering
-- 🌱 I’m currently learning Java-Spring Boot
+- 🌱 I’m currently learning Java and Spring Boot
 
 <!---
 silviashi453/silviashi453 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
