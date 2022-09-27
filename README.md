@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Mega Silvia
-- 👀 I’m interested in Backend Engineering
 
 <!---
 silviashi453/silviashi453 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
